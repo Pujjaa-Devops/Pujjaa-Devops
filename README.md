@@ -58,13 +58,7 @@ I’m a member of the **Linux Club**, and my OS of choice is **Ubuntu**.
 
 ---
 
-## 📈 My GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Puja123&show_icons=true&theme=radical" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Puja123&theme=radical" alt="GitHub Streak" width="49%" />
-</p>
 
----
 
 ## 📬 Connect with Me  
 - **LinkedIn:** [Puja's Profile](https://www.linkedin.com/in/pooja-raut-467a36293/)  
